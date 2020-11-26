@@ -15,7 +15,7 @@ source env/bin/activate
 (cd genpac;python setup.py install)
 
 env/bin/genpac \
-	--pac-proxy "SOCKS5 127.0.0.1:1080" \
+	--pac-proxy "PROXY pi.zisung.work:1081; PROXY 192.168.123.200:7890; PROXY 127.0.0.1:1080; DIRECT" \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	-o gfwlist.pac
