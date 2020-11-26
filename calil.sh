@@ -10,7 +10,7 @@ do
 done
 
 rm -rf env
-virtualenv -p /usr/bin/python3.7 env
+virtualenv env
 source env/bin/activate
 (cd genpac;python setup.py install)
 
