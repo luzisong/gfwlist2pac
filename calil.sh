@@ -19,9 +19,11 @@ env/bin/genpac \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	-o gfwlist.pac
-#sed -e '5d' -e '3d' -i gfwlist.pac
+sed -e '5d' -i gfwlist.pac
 deactivate
 
 git add .
 git commit -m "[$(LANG=C date)]auto update"
 git push origin master
+
+cp gfwlist.pac /mnt/m1/spider-save/proxy/
