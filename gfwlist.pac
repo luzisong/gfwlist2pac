@@ -1,6 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * Generated: 2020-11-27 01:57:27
  * GFWList Last-Modified: 2020-11-19 08:49:59
+ * GFWList From: local[/home/pi/bash/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.123.200:7890; PROXY 127.0.0.1:1080; DIRECT';
