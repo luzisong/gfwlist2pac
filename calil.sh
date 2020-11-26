@@ -1,7 +1,7 @@
 #!/bin/sh
 cd `dirname $0`
-#git reset --hard
-#git pull
+git reset --hard
+git pull
 
 git submodule update --init
 for i in gfwlist genpac
@@ -19,7 +19,7 @@ env/bin/genpac \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	-o gfwlist.pac
-sed -e '5d' -e '3d' -i gfwlist.pac
+#sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
 
 git add .
