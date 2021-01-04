@@ -27,5 +27,5 @@ git commit -m "[$(LANG=C date)]auto update"
 git push origin master
 
 cd `dirname $0`
-cp gfwlist.pac /mnt/m1/spider-save/proxy/
-cp gfwlist.pac /mnt/m1/spider-save/proxy/gfwlist.pac.txt
+cp ./gfwlist.pac /mnt/m1/spider-save/proxy/
+cp ./gfwlist.pac /mnt/m1/spider-save/proxy/gfwlist.pac.txt
