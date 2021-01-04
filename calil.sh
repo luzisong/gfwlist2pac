@@ -1,7 +1,7 @@
 #!/bin/sh
-#cd `dirname $0`
-#git reset --hard
-#git pull
+cd `dirname $0`
+git reset --hard
+git pull
 
 git submodule update --init
 for i in gfwlist genpac
