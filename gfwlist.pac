@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-01-18 00:18:38
+ * Generated: 2021-01-18 00:52:54
  * GFWList Last-Modified: 2020-12-26 00:34:23
  */
 
@@ -12,6 +12,7 @@ var rules = [
             "sina.com"
         ], 
         [
+            "fontawesome.com", 
             "google.com", 
             "logi.com", 
             "logitech.com", 
