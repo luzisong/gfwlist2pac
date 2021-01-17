@@ -1,11 +1,23 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-01-15 12:30:33
+ * Generated: 2021-01-18 00:09:26
  * GFWList Last-Modified: 2020-12-26 00:34:23
+ */
+
+var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.123.200:7890; PROXY 127.0.0.1:1080; DIRECT';
 var rules = [
     [
-        [], 
-        []
+        [
+            "163.com", 
+            "logitech.com", 
+            "sina.com"
+        ], 
+        [
+            "google.com", 
+            "twitter.com", 
+            "wikipedia.org", 
+            "youtube.com"
+        ]
     ], 
     [
         [
