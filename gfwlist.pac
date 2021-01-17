@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-01-18 00:09:26
+ * Generated: 2021-01-18 00:11:57
  * GFWList Last-Modified: 2020-12-26 00:34:23
  */
 
@@ -9,11 +9,11 @@ var rules = [
     [
         [
             "163.com", 
-            "logitech.com", 
             "sina.com"
         ], 
         [
             "google.com", 
+            "logitech.com", 
             "twitter.com", 
             "wikipedia.org", 
             "youtube.com"
