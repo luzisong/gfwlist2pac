@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-01 12:30:32
- * GFWList Last-Modified: 2021-04-26 23:33:00
+ * Generated: 2021-05-08 12:30:35
+ * GFWList Last-Modified: 2021-05-03 09:08:10
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.31.200:7890; PROXY 127.0.0.1:1080; DIRECT';
@@ -1535,6 +1535,7 @@ var rules = [
             "etokki.com", 
             "etowns.net", 
             "etowns.org", 
+            "etsy.com", 
             "ettoday.net", 
             "etvonline.hk", 
             "eu.org", 
@@ -3228,6 +3229,7 @@ var rules = [
             "mefeedia.com", 
             "meforum.org", 
             "mefound.com", 
+            "mega.co.nz", 
             "mega.nz", 
             "megaproxy.com", 
             "megarotic.com", 
@@ -3315,6 +3317,7 @@ var rules = [
             "mitbbs.com", 
             "mitbbsau.com", 
             "mixero.com", 
+            "mixi.jp", 
             "mixpod.com", 
             "mixx.com", 
             "mizzmona.com", 
@@ -3542,6 +3545,7 @@ var rules = [
             "newspeak.cc", 
             "newstamago.com", 
             "newstapa.org", 
+            "newstarnet.com", 
             "newsweek.com", 
             "newtaiwan.com.tw", 
             "newtalk.tw", 
