@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-08 12:30:35
- * GFWList Last-Modified: 2021-05-03 09:08:10
+ * Generated: 2021-05-15 12:30:33
+ * GFWList Last-Modified: 2021-05-12 03:45:12
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.31.200:7890; PROXY 127.0.0.1:1080; DIRECT';
@@ -3511,6 +3511,7 @@ var rules = [
             "nepusoku.com", 
             "nesnode.com", 
             "net-fits.pro", 
+            "netalert.me", 
             "netbig.com", 
             "netbirds.com", 
             "netcolony.com", 
@@ -5274,6 +5275,7 @@ var rules = [
             "v2ray.com", 
             "v2raycn.com", 
             "v2raytech.com", 
+            "valeursactuelles.com", 
             "van001.com", 
             "van698.com", 
             "vanemu.cn", 
