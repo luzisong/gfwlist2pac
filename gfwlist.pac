@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-15 12:30:33
- * GFWList Last-Modified: 2021-05-12 03:45:12
+ * Generated: 2021-05-22 12:30:33
+ * GFWList Last-Modified: 2021-05-16 23:18:44
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.31.200:7890; PROXY 127.0.0.1:1080; DIRECT';
@@ -581,6 +581,7 @@ var rules = [
             "bell.wiki", 
             "bemywife.cc", 
             "beric.me", 
+            "berlinerbericht.de", 
             "berlintwitterwall.com", 
             "berm.co.nz", 
             "bestforchina.org", 
