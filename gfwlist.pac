@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-06-15 12:30:36
- * GFWList Last-Modified: 2021-05-30 22:14:33
+ * Generated: 2021-06-22 12:31:26
+ * GFWList Last-Modified: 2021-06-17 21:41:04
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.31.200:7890; PROXY 127.0.0.1:1080; DIRECT';
@@ -3559,6 +3559,7 @@ var rules = [
             "newyorktimes.com", 
             "nexon.com", 
             "next11.co.jp", 
+            "nextdigital.com.hk", 
             "nextmag.com.tw", 
             "nextmedia.com", 
             "nexton-net.jp", 
@@ -4986,7 +4987,9 @@ var rules = [
             "tora.to", 
             "torcn.com", 
             "torguard.net", 
+            "torlock.com", 
             "torproject.org", 
+            "torrentkitty.tv", 
             "torrentprivacy.com", 
             "torrentproject.se", 
             "torrenty.org", 
