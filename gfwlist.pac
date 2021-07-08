@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-07-01 12:30:44
- * GFWList Last-Modified: 2021-06-17 21:41:04
+ * Generated: 2021-07-08 12:30:38
+ * GFWList Last-Modified: 2021-07-06 21:48:56
  */
 
 var proxy = 'PROXY pi.zisung.work:1081; PROXY 192.168.31.200:7890; PROXY 127.0.0.1:1080; DIRECT';
@@ -982,6 +982,7 @@ var rules = [
             "chrlawyers.hk", 
             "chrome.com", 
             "chromecast.com", 
+            "chromeenterprise.google", 
             "chromeexperiments.com", 
             "chromercise.com", 
             "chromestatus.com", 
@@ -1912,6 +1913,7 @@ var rules = [
             "gazotube.com", 
             "gcc.org.hk", 
             "gclooney.com", 
+            "gclubs.com", 
             "gcmasia.com", 
             "gcpnews.com", 
             "gcr.io", 
@@ -1947,6 +1949,7 @@ var rules = [
             "getoutline.org", 
             "getsocialscope.com", 
             "getsync.com", 
+            "gettr.com", 
             "gettrials.com", 
             "gettyimages.com", 
             "getuploader.com", 
@@ -4136,6 +4139,7 @@ var rules = [
             "raremovie.cc", 
             "raremovie.net", 
             "rateyourmusic.com", 
+            "rationalwiki.org", 
             "rawgit.com", 
             "rawgithub.com", 
             "raxcdn.com", 
@@ -4181,6 +4185,7 @@ var rules = [
             "renminbao.com", 
             "renyurenquan.org", 
             "rerouted.org", 
+            "research.google", 
             "resilio.com", 
             "resistchina.org", 
             "retweeteffect.com", 
@@ -5064,6 +5069,7 @@ var rules = [
             "tuvpn.com", 
             "tuzaijidi.com", 
             "tv.com", 
+            "tv.google", 
             "tvants.com", 
             "tvb.com", 
             "tvboxnow.com", 
@@ -5223,6 +5229,7 @@ var rules = [
             "unodedos.com", 
             "unpo.org", 
             "unseen.is", 
+            "unstable.icu", 
             "untraceable.us", 
             "uocn.org", 
             "updatestar.com", 
