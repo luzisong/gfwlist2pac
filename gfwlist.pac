@@ -2,7 +2,6 @@
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
  * Generated: 2021-07-15 12:30:39
  * GFWList Last-Modified: 2021-07-06 21:48:56
-    [
         [
             "163.com", 
             "sina.com"
